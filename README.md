@@ -7,11 +7,11 @@ To draw the schematic and simulate the embedded system for the given requirement
 ![image](https://user-images.githubusercontent.com/6159567/228723969-3892a2a3-3743-4300-9636-ba0dba4ed150.png)
 
 ## STEPS:
-###Open Proteus software 
-###Create the firmware layout option for the project \n
-###Pick the necessary parts such as capacitor,LED and switch etc.. \n
-###Create the code for the STM in STM IDE \n
-###Click on the STM and open the STM code and run the simulation
+### Open Proteus software 
+### Create the firmware layout option for the project \n
+### Pick the necessary parts such as capacitor,LED and switch etc.. \n
+### Create the code for the STM in STM IDE \n
+### Click on the STM and open the STM code and run the simulation
 
 
 ## CIRCUIT DIAGRAM:
